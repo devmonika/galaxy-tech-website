@@ -13,9 +13,6 @@
 
 .overlay {
     z-index: 3;
-    top: 30%;
+    top: 25%;
+    padding: 0;
 }
-
-/* .carousel-btn {
-    background-color: #358AFD;
-} */
